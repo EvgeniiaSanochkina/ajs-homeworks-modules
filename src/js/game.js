@@ -1,10 +1,10 @@
+import defaultCharacter from './domain.js';
+
 class Game {
     start() {
         console.log('game started');
     }
 }
-
-import defaultCharacter from './domain.js';
 
 console.log(defaultCharacter);
 
